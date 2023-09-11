@@ -1,0 +1,15 @@
+.book-info img {
+    width: 350px;
+    height: auto;
+}
+.book-info .info {
+    width: 400px;
+}
+.book-info .info .divider hr {
+    width: calc(100% - 115px);
+    height: 1px;
+    background-color: #000000af;
+}
+.book-info .info .divider p {
+    margin: 0;
+}
